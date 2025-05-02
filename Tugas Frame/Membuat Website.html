@@ -1,0 +1,9 @@
+<frameset rows=15%,*,50%>
+    <frame src="Bagian-bagian Frame/judul.html">
+        <frameset cols=*,*,*>
+            <frame src="Bagian-bagian Frame/menukiri.html">
+            <frame src="Bagian-bagian Frame/menutengah.html">
+            <frame src="Bagian-bagian Frame/menukanan.html">
+        </frameset>
+    <frame src="Bagian-bagian Frame/menubawah.html" name=bawah>
+</frameset>
